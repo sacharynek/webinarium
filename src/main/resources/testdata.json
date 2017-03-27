@@ -1,0 +1,14 @@
+{
+  "username": "john",
+  "password": "password",
+  "firstName": "John",
+  "lastName": "Testable",
+  "email": "john@test.com",
+  "phone": "123456789",
+  "address1": "My Address 32B",
+  "address2": "50-500",
+  "city": "Wroclaw",
+  "state": "dolnyslask",
+  "zip": "1234",
+  "country": "Poland"
+}
